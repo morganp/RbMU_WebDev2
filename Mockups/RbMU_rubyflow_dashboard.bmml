@@ -125,9 +125,19 @@
         <text>more</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Link" x="718" y="550" w="-1" h="-1" measuredW="71" measuredH="23" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Link" x="623" y="545" w="-1" h="-1" measuredW="71" measuredH="23" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>older%20posts</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="444" y="352" w="-1" h="-1" measuredW="104" measuredH="23" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit%20new%20post</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Link" x="712" y="546" w="-1" h="-1" measuredW="80" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>recent%20posts</text>
       </controlProperties>
     </control>
   </controls>
