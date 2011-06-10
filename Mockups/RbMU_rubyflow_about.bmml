@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" measuredW="899" measuredH="467" mockupW="806" mockupH="467">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::LinkBar" x="99" y="136" w="-1" h="-1" measuredW="214" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20Posts%2C%20Official%2C%20Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="789" y="142" w="-1" h="-1" measuredW="99" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login%20/Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="99" y="72" w="795" h="64" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="114" y="81" w="-1" h="-1" measuredW="167" measuredH="46" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>32</size>
+        <text>RbMU%20Flow</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="165" y="165" w="662" h="244" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="189" y="177" w="-1" h="-1" measuredW="327" measuredH="56" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20RbMU%20Flow</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="205" y="227" w="558" h="140" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Suspendisse%20potenti.%20Pellentesque%20libero%20massa%2C%20semper%20vitae%20consectetur%20quis%2C%20tempor%20mollis%20erat.%20Vestibulum%20et%20dui%20quis%20nulla%20molestie%20consequat%20vitae%20ut%20justo.%20Suspendisse%20ut%20magna%20metus%2C%20quis%20fermentum%20dui.%20Aenean%20sollicitudin%20tristique%20condimentum.%20Nam%20lobortis%20enim%20vitae%20tortor%20ultricies%20quis%20consequat%20orci%20lobortis.%20Quisque%20pulvinar%20leo%20nec%20ante%20dictum%20accumsan.%20Sed%20id%20est%20vestibulum%20ipsum%20posuere%20gravida.%20Nullam%20in%20neque%20erat%2C%20in%20porttitor%20libero.%20Sed%20vehicula%20viverra%20felis%2C%20sit%20amet%20scelerisque%20nulla%20venenatis%20id.%20Etiam%20pretium%2C%20eros%20fringilla%20ullamcorper%20luctus%2C%20purus%20tortor%20sagittis%20dui%2C%20sed%20consequat%20nisl%20ante%20quis%20odio.%20Vestibulum%20ante%20ipsum%20primis%20in%20faucibus%20orci%20luctus%20et%20ultrices%20posuere%20cubilia%20Curae%3B%20Cras%20a%20metus%20vitae%20lacus%20facilisis%20sagittis%20eu%20non%20erat.%20Curabitur%20nec%20nisi%20mi.%20Quisque%20et%20lectus%20varius%20ante%20gravida%20pharetra%20non%20ac%20risus.%20Integer%20vehicula%20bibendum%20nulla%20sit%20amet%20tempus.%20Cras%20id%20urna%20nec%20dolor%20rutrum%20viverra%20ut%20in%20elit.%20Donec%20a%20diam%20felis.%20Donec%20porttitor%20quam%20interdum%20risus%20eleifend%20ut%20pretium%20arcu%20blandit.%20Nulla%20vehicula%20est%20nisi.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="93" y="0" w="806" h="467" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20RbMU%20Flow%0Ahttp%3A//flow.rubymendicant.com/about</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
